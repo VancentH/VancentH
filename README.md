@@ -1,4 +1,11 @@
-### Hi there 👋
+### :baby_chick: Hi
+
+I'm Vincent.\
+A cat lover :smile_cat:.\
+Love to share some interesting things.
+
+
+![](https://komarev.com/ghpvc/?username=VancentH&style=flat&label=PROFILE+VIEWS&color=brightgreen)
 
 <!--
 **VancentH/VancentH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
