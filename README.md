@@ -2,7 +2,7 @@
 
 I'm Vincent.\
 A cat lover :smile_cat:.\
-Love to share some interesting things.
+I'm currenly preparing to start a new podcast channel :microphone:.
 
 
 ![](https://komarev.com/ghpvc/?username=VancentH&style=flat&label=PROFILE+VIEWS&color=brightgreen)
