@@ -6,6 +6,12 @@ Currently working on launching a new podcast :microphone:.
 
 ![](https://komarev.com/ghpvc/?username=VancentH&style=flat&label=PROFILE+VIEWS&color=brightgreen)
 
+<div>
+  <a href="https://codepen.io/hyde31456" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <!--
 **VancentH/VancentH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +30,8 @@ Here are some ideas to get you started:
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,bash,java,spring,vue,typescript,mysql,prometheus,grafana,jenkins" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,scss,vue,typescript,mysql,prometheus,grafana" /><br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,bash,jenkins" />
 </p>
 
 ### Board
