@@ -1,8 +1,7 @@
 ### :baby_chick: Hi
 
-I'm Vincent.\
-A cat lover :smile_cat:.\
-I'm currenly preparing to start a new podcast channel :microphone:.
+I'm Vincent - DevOps/SRE engineer & cat lover :smile_cat:.\
+Currently working on launching a new podcast :microphone:.
 
 
 ![](https://komarev.com/ghpvc/?username=VancentH&style=flat&label=PROFILE+VIEWS&color=brightgreen)
@@ -22,6 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :tent: Board
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,bash,java,spring,vue,typescript,mysql,prometheus,grafana,jenkins" />
+</p>
+
+### Board
 
 [![An image of @vancenth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vancenth)](https://holopin.io/@vancenth)
